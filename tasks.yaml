@@ -1,0 +1,17 @@
+analysis_task:
+  description: >
+    Analyze the following text and identify at least 5-7 key areas that 
+    require clarification: {source_text}. 
+    Focus on high-impact information for the user.
+  expected_output: >
+    A list of key topics and raw questions extracted from the text.
+  agent: analyzer
+
+writing_task:
+  description: >
+    Using the analysis provided, generate a structured list of FAQs.
+    Each FAQ must have a 'question' and a detailed 'answer'.
+  expected_output: >
+    A validated list of FAQs in JSON format.
+  agent: faq_writer
+  output_json: FAQSchema 
