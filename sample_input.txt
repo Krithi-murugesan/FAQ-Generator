@@ -1,0 +1,19 @@
+Welcome to LearnSphere, our online learning platform designed to help students and professionals upgrade their skills.
+
+Account Registration:
+Users must create an account using a valid email address. Each account is intended for individual use only and should not be shared with others. Users are responsible for maintaining the confidentiality of their login credentials.
+
+Course Access:
+Once enrolled in a course, users receive lifetime access to the course materials unless otherwise stated. Some courses may include downloadable resources such as PDFs, templates, or practice datasets.
+
+Payments and Refunds:
+All payments are processed securely through our payment partners. We offer a 14-day refund policy for most courses, provided that less than 30% of the course content has been completed. Refunds are not available for subscription-based plans after the billing cycle has started.
+
+Certificates:
+Certificates of completion are issued automatically after a user completes all required modules and quizzes in a course. Certificates are provided in digital format only.
+
+Technical Requirements:
+Users are responsible for ensuring they have a stable internet connection and an updated web browser. LearnSphere is not responsible for interruptions caused by user-side technical issues.
+
+Code of Conduct:
+Users must not engage in harassment, spam, or unauthorized distribution of course content. Violation of these terms may result in account suspension or permanent removal from the platform.
