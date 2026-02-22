@@ -1,0 +1,32 @@
+{
+    "faqs": [
+        {
+            "question": "Can I use my social media account to register, or is an email address required?",
+            "answer": "You can register using your social media accounts or by providing an email address, depending on your preference. Both options are available for registration."
+        },
+        {
+            "question": "Do I have lifetime access to all course materials, and are updates included?",
+            "answer": "Most courses offer lifetime access to their materials, including free updates. However, certain specialized courses may have different access terms; please check the course description for specific details."
+        },
+        {
+            "question": "What payment methods are accepted, and how does the refund process work?",
+            "answer": "LearnSphere accepts payments via major credit cards and authorized payment partners. Refund eligibility is based on course completion percentage and must be requested within 14 days of purchase, except for certain courses with different policies. Refunds are typically processed within 7 to 10 business days."
+        },
+        {
+            "question": "Are certificates from LearnSphere recognized by educational institutions or professional organizations?",
+            "answer": "Certificates issued upon course completion are recognized by various educational institutions and professional bodies, depending on the course. Certificates display details such as your name, course title, and completion date."
+        },
+        {
+            "question": "What technical requirements are needed to use LearnSphere efficiently?",
+            "answer": "LearnSphere supports the latest versions of major web browsers such as Chrome, Firefox, Safari, and Edge. For the best experience, we recommend using modern devices with updated software and a stable internet connection. Technical support is available if you encounter connectivity or other technical issues."
+        },
+        {
+            "question": "How does LearnSphere handle harassment, spam, or unauthorized sharing on the platform?",
+            "answer": "Behaviors like harassment, spamming, and unauthorized distribution of content are strictly prohibited. Violations are monitored and can be reported by users or detected through automated tools. Accounts may be suspended or removed, and users have the option to appeal these decisions through a formal process."
+        },
+        {
+            "question": "Where can I find additional support, tutorials, or interact with instructors and peers?",
+            "answer": "LearnSphere offers comprehensive FAQs, video tutorials, and responsive customer support channels. Users can also engage with instructors and fellow learners via integrated community forums and discussion boards within the platform."
+        }
+    ]
+}
